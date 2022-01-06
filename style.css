@@ -106,14 +106,18 @@ button {
     margin: 5px;
     width: 30vh;
     max-width: 15vh;
+    height: 200px;
     
 }
 
 .card-item {
     text-align: center;
-    
+    height: ;
 }
-    
+
+.caption-credits {
+    font-size: small;
+}
 
 #quote-section {
     display: flex;
